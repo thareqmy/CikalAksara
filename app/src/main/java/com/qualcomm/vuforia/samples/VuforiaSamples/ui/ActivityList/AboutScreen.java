@@ -48,45 +48,14 @@ public class AboutScreen extends Activity implements OnClickListener
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
             WindowManager.LayoutParams.FLAG_FULLSCREEN);
-        
-        setContentView(R.layout.about_screen);
-        
+
         Bundle extras = getIntent().getExtras();
         String webText = extras.getString("ABOUT_TEXT");
         mClassToLaunchPackage = getPackageName();
         mClassToLaunch = mClassToLaunchPackage + "."
             + extras.getString("ACTIVITY_TO_LAUNCH");
-        
-        mAboutWebText = (WebView) findViewById(R.id.about_html_text);
-        
-        AboutWebViewClient aboutWebClient = new AboutWebViewClient();
-        mAboutWebText.setWebViewClient(aboutWebClient);
-        
-        String aboutText = "";
-        try
-        {
-            InputStream is = getAssets().open(webText);
-            BufferedReader reader = new BufferedReader(
-                new InputStreamReader(is));
-            String line;
-            
-            while ((line = reader.readLine()) != null)
-            {
-                aboutText += line;
-            }
-        } catch (IOException e)
-        {
-            Log.e(LOGTAG, "About html loading failed");
-        }
-        
-        mAboutWebText.loadData(aboutText, "text/html", "UTF-8");
-        
-        mStartButton = (Button) findViewById(R.id.button_start);
-        mStartButton.setOnClickListener(this);
-        
-        mAboutTextTitle = (TextView) findViewById(R.id.about_text_title);
-        mAboutTextTitle.setText(extras.getString("ABOUT_TEXT_TITLE"));
-        
+        startARActivity();
+
     }
     
     
@@ -98,7 +67,7 @@ public class AboutScreen extends Activity implements OnClickListener
         startActivity(i);
     }
     
-    
+
     @Override
     public void onClick(View v)
     {

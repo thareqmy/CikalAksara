@@ -6,180 +6,47 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="quality" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc803c84-8fbd-46e0-aeb4-39afd1a862fd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jme3_jme3_android_3_0_10_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jme3_jme3_core_3_0_10_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jme3_jme3_openal_soft_android_3_0_10_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jme3_jme3_terrain_3_0_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ss.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vuforia-Samples-Android-Studio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Vuforia-Samples-Android-Studio.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-hdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-hdpi-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ldpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-ldpi-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-mdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-mdpi-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v13.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-v13.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-xhdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-xhdpi-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-xxhdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values-xxhdpi-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-ldpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-ldpi-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/qualcomm/vuforia/samples/VuforiaSamples/R.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/qualcomm/vuforia/samples/VuforiaSamples/R.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationSession$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationSession$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationSession$InitVuforiaTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationSession$InitVuforiaTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationSession$LoadTrackerTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationSession$LoadTrackerTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationSession.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationSession.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/CubeObject$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/CubeObject$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/CubeObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/CubeObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/LoadingDialogHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/LoadingDialogHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/MeshObject$BUFFER_TYPE.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/MeshObject$BUFFER_TYPE.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/MeshObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/MeshObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleApplication3DModel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleApplication3DModel$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleApplication3DModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleApplication3DModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleApplicationGLView$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleApplicationGLView$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleApplicationGLView$ConfigChooser.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleApplicationGLView$ConfigChooser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleApplicationGLView$ContextFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleApplicationGLView$ContextFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleApplicationGLView.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleApplicationGLView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleMath.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleMath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/Teapot$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/Teapot$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/Teapot.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/Teapot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/Texture.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/SampleApplication/utils/Texture.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/R.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/R.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CloudRecognition/CloudReco$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CloudRecognition/CloudReco$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CloudRecognition/CloudReco$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CloudRecognition/CloudReco$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CloudRecognition/CloudReco$2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CloudRecognition/CloudReco$2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CloudRecognition/CloudReco$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CloudRecognition/CloudReco$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CloudRecognition/CloudReco$GestureListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CloudRecognition/CloudReco$GestureListener$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CloudRecognition/CloudReco$GestureListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CloudRecognition/CloudReco$GestureListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CloudRecognition/CloudReco.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CloudRecognition/CloudReco.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CloudRecognition/CloudRecoRenderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CloudRecognition/CloudRecoRenderer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CylinderTargets/CylinderModel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CylinderTargets/CylinderModel$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CylinderTargets/CylinderModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CylinderTargets/CylinderModel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CylinderTargets/CylinderTargetRenderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CylinderTargets/CylinderTargetRenderer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CylinderTargets/CylinderTargets$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CylinderTargets/CylinderTargets$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CylinderTargets/CylinderTargets$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CylinderTargets/CylinderTargets$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CylinderTargets/CylinderTargets$GestureListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CylinderTargets/CylinderTargets$GestureListener$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CylinderTargets/CylinderTargets$GestureListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CylinderTargets/CylinderTargets$GestureListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CylinderTargets/CylinderTargets.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/CylinderTargets/CylinderTargets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/AObject$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/AObject$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/AObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/AObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/CObject$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/CObject$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/CObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/CObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/FrameMarkerRenderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/FrameMarkerRenderer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/FrameMarkers$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/FrameMarkers$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/FrameMarkers$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/FrameMarkers$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/FrameMarkers$GestureListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/FrameMarkers$GestureListener$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/FrameMarkers$GestureListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/FrameMarkers$GestureListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/FrameMarkers.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/FrameMarkers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/QObject$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/QObject$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/QObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/QObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/RObject$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/RObject$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/RObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/RObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ImageTargets/ImageTargetRenderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ImageTargets/ImageTargetRenderer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ImageTargets/ImageTargets$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ImageTargets/ImageTargets$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ImageTargets/ImageTargets$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ImageTargets/ImageTargets$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ImageTargets/ImageTargets$GestureListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ImageTargets/ImageTargets$GestureListener$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ImageTargets/ImageTargets$GestureListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ImageTargets/ImageTargets$GestureListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ImageTargets/ImageTargets.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ImageTargets/ImageTargets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/MultiTargets/BowlAndSpoonObject$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/MultiTargets/BowlAndSpoonObject$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/MultiTargets/BowlAndSpoonObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/MultiTargets/BowlAndSpoonObject.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/MultiTargets/MultiTargetRenderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/MultiTargets/MultiTargetRenderer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/MultiTargets/MultiTargets$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/MultiTargets/MultiTargets$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/MultiTargets/MultiTargets$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/MultiTargets/MultiTargets$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/MultiTargets/MultiTargets$GestureListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/MultiTargets/MultiTargets$GestureListener$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/MultiTargets/MultiTargets$GestureListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/MultiTargets/MultiTargets$GestureListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/MultiTargets/MultiTargets.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/MultiTargets/MultiTargets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ObjectRecognition/ObjectTargetRenderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ObjectRecognition/ObjectTargetRenderer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ObjectRecognition/ObjectTargets$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ObjectRecognition/ObjectTargets$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ObjectRecognition/ObjectTargets$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ObjectRecognition/ObjectTargets$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ObjectRecognition/ObjectTargets$GestureListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ObjectRecognition/ObjectTargets$GestureListener$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ObjectRecognition/ObjectTargets$GestureListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ObjectRecognition/ObjectTargets$GestureListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ObjectRecognition/ObjectTargets.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/ObjectRecognition/ObjectTargets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco$2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco$2$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco$GestureListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco$GestureListener$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco$GestureListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco$GestureListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextReco.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextRecoRenderer$WordDesc.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextRecoRenderer$WordDesc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextRecoRenderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/TextRecognition/TextRecoRenderer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/RefFreeFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/RefFreeFrame$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/RefFreeFrame$STATUS.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/RefFreeFrame$STATUS.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/RefFreeFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/RefFreeFrame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/RefFreeFrameGL.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/RefFreeFrameGL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargetRenderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargetRenderer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets$3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets$3$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets$GestureListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets$GestureListener$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets$GestureListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets$GestureListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/VirtualButtons/VirtualButtonRenderer.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/VirtualButtons/VirtualButtonRenderer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/VirtualButtons/VirtualButtons$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/VirtualButtons/VirtualButtons$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/VirtualButtons/VirtualButtons$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/VirtualButtons/VirtualButtons$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/VirtualButtons/VirtualButtons$GestureListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/VirtualButtons/VirtualButtons$GestureListener$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/VirtualButtons/VirtualButtons$GestureListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/VirtualButtons/VirtualButtons$GestureListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/VirtualButtons/VirtualButtons.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/VirtualButtons/VirtualButtons.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/JMESurfaceView.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/JMESurfaceView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/jme$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/jme$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/jme$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/jme$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/jme$GestureListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/jme$GestureListener$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/jme$GestureListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/jme$GestureListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/jme.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/jme.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/utils/CustomAbstractHeightMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/utils/CustomAbstractHeightMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/utils/LoadingDialogHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/utils/LoadingDialogHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/vuforia/VuforiaApplicationSession$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/vuforia/VuforiaApplicationSession$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/vuforia/VuforiaApplicationSession$InitVuforiaTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/vuforia/VuforiaApplicationSession$InitVuforiaTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/vuforia/VuforiaApplicationSession$LoadTrackerTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/vuforia/VuforiaApplicationSession$LoadTrackerTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/vuforia/VuforiaApplicationSession.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/app/vuforia/VuforiaApplicationSession.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/AboutScreen$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/AboutScreen$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/R$drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/R$drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/R$id.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/R$id.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/R$layout.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/R$layout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/R$string.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/R$string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/R$style.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/R$style.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/AboutScreen$1.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/AboutScreen$AboutWebViewClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/AboutScreen$AboutWebViewClient.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/AboutScreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/AboutScreen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivityLauncher.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivityLauncher.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivitySplashScreen$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivitySplashScreen$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivitySplashScreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivitySplashScreen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenu$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenu$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenu$GestureListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenu$GestureListener$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenu$GestureListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenu$GestureListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuGroup$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuGroup$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuGroup$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuGroup$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuGroup$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuGroup$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuGroup.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuGroup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/Vuforia_8cfdedd5d991293816d548606c9fa7d6df5950b1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_cffd4cfb7eed55c1ec39e40a6e4d908ba01dba3c.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/jme3-android-3.0.10_583feb964d9a3a21bef85bb269b7d98f196d776e.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/jme3-core-3.0.10_b7ba4497a84f654291a9a691afa762f21ac9eca5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/jme3-terrain-3.0.10_ae39c0ef72a56470dfbba2f37af63f50eee000d1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_c1404f38e9fe04a356b1106026c2411103c2ac17.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_c1404f38e9fe04a356b1106026c2411103c2ac17.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/camera_overlay_udt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/camera_overlay_udt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/splash_screen.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/splash_screen.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationSession.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationSession.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/AboutScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/AboutScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivitySplashScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivitySplashScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/camera_overlay_udt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/camera_overlay_udt.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/splash_screen.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/splash_screen.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
     </list>
     <ignored path="Vuforia-Samples-Android-Studio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -191,6 +58,11 @@
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
   </component>
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
@@ -205,70 +77,100 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivityLauncher.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            <state relative-caret-position="450">
+              <caret line="797" column="48" selection-start-line="797" selection-start-column="48" selection-end-line="797" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/about_screen.xml">
-          <provider editor-type-id="text-editor" />
-          <provider selected="true" editor-type-id="android-designer2" />
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargetRenderer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-226">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/splash_screen.xml">
-          <provider editor-type-id="text-editor" />
-          <provider selected="true" editor-type-id="android-designer2" />
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/RefFreeFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1485">
+              <caret line="107" column="30" selection-start-line="107" selection-start-column="12" selection-end-line="107" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/app/src/main/java/Vuforia.jar!/com/qualcomm/vuforia/ImageTargetBuilder.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="45" column="23" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/camera_overlay_udt.xml">
-          <provider editor-type-id="text-editor" />
-          <provider selected="true" editor-type-id="android-designer2" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradlew">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+        <entry file="jar://$PROJECT_DIR$/app/src/main/java/Vuforia.jar!/com/qualcomm/vuforia/VuforiaJNI.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="-15826">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationSession.java">
+        <entry file="jar://$PROJECT_DIR$/app/src/main/java/Vuforia.jar!/com/qualcomm/vuforia/TrackableSource.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="346" column="449" selection-start-line="346" selection-start-column="449" selection-end-line="346" selection-end-column="449" />
+            <state relative-caret-position="418">
+              <caret line="47" column="3" lean-forward="true" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/Models/Ninja/Ninja.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/AboutScreen.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleUtils.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleMath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/SampleApplication/utils/LineShaders.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/RefFreeFrameGL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5102">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -283,6 +185,23 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>UserDefinedTargetRen</find>
+      <find>userdefinedtargetsrunning</find>
+      <find>logtag</find>
+      <find>qualit</find>
+      <find>mClassToLaunch</find>
+      <find>camera</find>
+      <find>trackerManager</find>
+      <find>dataSetUserDef</find>
+      <find>datasetuserdef</find>
+      <find>onQCAR</find>
+      <find>trackablesource</find>
+      <find>targetbuilder</find>
+      <find>ImageTargetBuilder</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -290,7 +209,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargetRenderer.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivityLauncher.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/vuforia/VuforiaApplicationControl.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/vuforia/VuforiaApplicationException.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/utils/LoadingDialogHandler.java" />
@@ -305,9 +223,14 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/utils/CustomImageBasedHeightMap.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/JMESurfaceView.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/utils/CustomAbstractHeightMap.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationSession.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/camera_overlay_udt.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/splash_screen.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivityLauncher.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivitySplashScreen.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/AboutScreen.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets.java" />
       </list>
     </option>
   </component>
@@ -318,10 +241,11 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="960" />
     <option name="y" value="27" />
-    <option name="width" value="1680" />
-    <option name="height" value="1027" />
+    <option name="width" value="850" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -329,9 +253,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -356,6 +277,14 @@
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vuforia-Samples-Android-Studio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Vuforia-Samples-Android-Studio" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Vuforia-Samples-Android-Studio" type="b2602c69:ProjectViewProjectNode" />
@@ -392,6 +321,17 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="samples" type="462c0819:PsiDirectoryNode" />
+              <item name="SampleApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vuforia-Samples-Android-Studio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Vuforia-Samples-Android-Studio" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="samples" type="462c0819:PsiDirectoryNode" />
               <item name="VuforiaSamples" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -414,19 +354,8 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="samples" type="462c0819:PsiDirectoryNode" />
               <item name="VuforiaSamples" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Vuforia-Samples-Android-Studio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Vuforia-Samples-Android-Studio" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="samples" type="462c0819:PsiDirectoryNode" />
-              <item name="VuforiaSamples" type="462c0819:PsiDirectoryNode" />
-              <item name="ui" type="462c0819:PsiDirectoryNode" />
-              <item name="ActivityList" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="UserDefinedTargets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Vuforia-Samples-Android-Studio" type="b2602c69:ProjectViewProjectNode" />
@@ -436,6 +365,37 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Vuforia.jar" type="ab9368bb:PsiFileNode" />
+            </path>
+            <path>
+              <item name="Vuforia-Samples-Android-Studio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Vuforia-Samples-Android-Studio" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Vuforia.jar" type="ab9368bb:PsiFileNode" />
+              <item name="qualcomm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vuforia-Samples-Android-Studio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Vuforia-Samples-Android-Studio" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Vuforia.jar" type="ab9368bb:PsiFileNode" />
+              <item name="qualcomm" type="462c0819:PsiDirectoryNode" />
+              <item name="vuforia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Vuforia-Samples-Android-Studio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Vuforia-Samples-Android-Studio" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Vuforia.jar" type="ab9368bb:PsiFileNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Vuforia-Samples-Android-Studio" type="b2602c69:ProjectViewProjectNode" />
@@ -479,6 +439,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -497,11 +460,12 @@
     <property name="sync.plugin.last.upgrade.timestamp" value="1560058987871" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/src/main" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/src/main/assets/Textures" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -716,21 +680,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1680" height="1027" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Resources Explorer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24663402" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21504803" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Build Variants" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Captures" order="4" side_tool="true" weight="0.32956383" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Palette&#9;" order="6" />
-      <window_info anchor="bottom" id="Android Profiler" />
-      <window_info anchor="bottom" id="Build" sideWeight="0.499388" visible="true" weight="0.32925472" />
-      <window_info anchor="bottom" id="Logcat" />
+      <window_info id="Image Layers" order="7" />
+      <window_info id="Resources Explorer" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.48046398" visible="true" weight="0.24149287" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.497558" weight="0.3294979" />
@@ -741,12 +701,13 @@
       <window_info anchor="bottom" id="Application Servers" order="7" />
       <window_info anchor="bottom" id="Gradle Console" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Android Monitor" order="9" sideWeight="0.72893775" weight="0.169045" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.500612" side_tool="true" visible="true" weight="0.32925472" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50160086" side_tool="true" visible="true" weight="0.32972974" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.485348" weight="0.3294979" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.48452508" weight="0.3193096" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.492674" weight="0.32845187" />
-      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Android Profiler" order="14" />
+      <window_info anchor="bottom" id="Build" order="15" sideWeight="0.49839914" weight="0.32864866" />
+      <window_info anchor="bottom" id="Logcat" order="16" sideWeight="0.49839914" visible="true" weight="0.32972974" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -756,6 +717,8 @@
       <window_info anchor="right" id="Gradle" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="right" id="Preview" order="8" />
+      <window_info anchor="right" id="Device File Explorer" order="9" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18864469" />
@@ -798,92 +761,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jme3/jme3-core/3.0.10/d18ed8094d14358627695219e98fd837fd48e6a4/jme3-core-3.0.10.jar!/Common/MatDefs/Misc/Unshaded.j3md" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationControl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/import-summary.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jme3/jme3-android/3.0.10/48813a102d093bf0c5cb755c24879ff3cba8c5f6/jme3-android-3.0.10-sources.jar!/com/jme3/asset/AndroidAssetManager.java" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jme3/jme3-core/3.0.10/a3c74c0612e86ffda9ea2f1b9e4c437483f23aab/jme3-core-3.0.10-sources.jar!/com/jme3/app/SimpleApplication.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/utils/Constants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/assets/UserDefinedTargets/viewfinder_crop_marks_portrait.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/assets/UserDefinedTargets/viewfinder_crop_marks_landscape.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/assets/Textures/fb.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/FrameMarkers/FrameMarkerRenderer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="236" column="12" selection-start-line="236" selection-start-column="12" selection-end-line="236" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#11028#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargetRenderer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="130" column="61" selection-start-line="130" selection-start-column="55" selection-end-line="130" selection-end-column="61" />
-          <folding>
-            <element signature="e#0#8700#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/vuforia/VuforiaApplicationSession.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="546" selection-start-line="546" selection-end-line="546" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jme3/jme3-terrain/3.0.10/186ef862a6de4b1847ed9e944f6ba1760de8619e/jme3-terrain-3.0.10-sources.jar!/com/jme3/terrain/geomipmap/TerrainQuad.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/utils/RawPointCloudGraphGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="96" column="43" selection-start-line="96" selection-start-column="26" selection-end-line="96" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/utils/PointCloudJme3GraphGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/utils/AbstractPointCloudGraphGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="182" column="39" selection-start-line="182" selection-start-column="16" selection-end-line="182" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jme3/jme3-terrain/3.0.10/186ef862a6de4b1847ed9e944f6ba1760de8619e/jme3-terrain-3.0.10-sources.jar!/com/jme3/terrain/geomipmap/TerrainPatch.java" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jme3/jme3-terrain/3.0.10/186ef862a6de4b1847ed9e944f6ba1760de8619e/jme3-terrain-3.0.10-sources.jar!/com/jme3/terrain/heightmap/HeightMap.java" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jme3/jme3-terrain/3.0.10/186ef862a6de4b1847ed9e944f6ba1760de8619e/jme3-terrain-3.0.10-sources.jar!/com/jme3/terrain/heightmap/CombinerHeightMap.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/assets/Textures/Algeria.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -913,43 +790,10 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jme3/jme3-terrain/3.0.10/186ef862a6de4b1847ed9e944f6ba1760de8619e/jme3-terrain-3.0.10-sources.jar!/com/jme3/terrain/heightmap/ImageBasedHeightMap.java" />
-    <entry file="jar://$PROJECT_DIR$/app/src/main/java/Vuforia.jar!/com/qualcomm/vuforia/ImageTargetBuilder.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="45" column="23" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/RefFreeFrame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="145" column="17" selection-start-line="145" selection-start-column="9" selection-end-line="145" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/jme/jme.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1110">
           <caret line="119" column="38" selection-start-line="119" selection-start-column="21" selection-end-line="119" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10545">
-          <caret line="762" column="22" selection-start-line="762" selection-start-column="18" selection-end-line="762" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/ImageTargets/ImageTargets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6780">
-          <caret line="505" column="12" selection-start-line="505" selection-start-column="11" selection-end-line="505" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -996,6 +840,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/Models/Ninja/Ninja.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/about_screen.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationSession.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1003,34 +854,197 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/Models/Ninja/Ninja.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/sample_app_menu_group.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/AboutScreen.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/sample_app_menu_group_divider.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/sample_app_menu_group_radio_button.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/ImageTargets/ImageTargets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6780">
+          <caret line="505" column="12" selection-start-line="505" selection-start-column="11" selection-end-line="505" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/ImageTargets/ImageTargetRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/camera_overlay.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/camera_overlay_textreco.xml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/splash_screen.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/camera_overlay_udt.xml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="31" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer2" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuAnimator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/SampleAppMenu/SampleAppMenuView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivityLauncher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        <state relative-caret-position="195">
+          <caret line="75" column="56" selection-start-line="71" selection-start-column="19" selection-end-line="75" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/about_screen.xml">
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="android-designer2" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/ActivitySplashScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/splash_screen.xml">
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="android-designer2" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/ui/ActivityList/AboutScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/camera_overlay_udt.xml">
-      <provider editor-type-id="text-editor" />
-      <provider selected="true" editor-type-id="android-designer2" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/SampleApplication/SampleApplicationControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargetRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-226">
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/UserDefinedTargets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="797" column="48" selection-start-line="797" selection-start-column="48" selection-end-line="797" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/app/src/main/java/Vuforia.jar!/com/qualcomm/vuforia/TrackableSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="47" column="3" lean-forward="true" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/SampleApplication/utils/SampleMath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/SampleApplication/utils/LineShaders.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/RefFreeFrameGL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5102">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/qualcomm/vuforia/samples/VuforiaSamples/app/UserDefinedTargets/RefFreeFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="107" column="30" selection-start-line="107" selection-start-column="12" selection-end-line="107" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/app/src/main/java/Vuforia.jar!/com/qualcomm/vuforia/ImageTargetBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="45" column="23" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/app/src/main/java/Vuforia.jar!/com/qualcomm/vuforia/VuforiaJNI.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15826">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

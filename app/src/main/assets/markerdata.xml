@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="pandangmarker" size="1.000000 1.511811" />
+    <ImageTarget name="nyanyimarker" size="1.000000 1.272081" />
+    <ImageTarget name="kenapamarker" size="1.000000 1.511811" />
+    <ImageTarget name="jenismarker" size="1.000000 1.511811" />
+    <ImageTarget name="intromarker" size="1.000000 1.509210" />
+  </Tracking>
+</QCARConfig>

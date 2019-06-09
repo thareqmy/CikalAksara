@@ -795,6 +795,7 @@ public class UserDefinedTargets extends Activity implements
             // Add new trackable source
             Trackable trackable = dataSetUserDef
                 .createTrackable(refFreeFrame.getNewTrackableSource());
+            refFreeFrame.getNewTrackableSource();
             
             // Reactivate current dataset
             objectTracker.activateDataSet(dataSetUserDef);
