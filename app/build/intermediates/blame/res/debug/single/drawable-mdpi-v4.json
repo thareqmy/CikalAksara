@@ -4,7 +4,15 @@
         "source": "/Users/Gotti/AndroidStudioProjects/VufTesting/Vuforia-Samples-Android-Studio/app/src/main/res/drawable-mdpi/logo.png"
     },
     {
+        "merged": "/home/thareqyusuf/Projects/Test/Vuforia-Samples-Android-Studio/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon.png",
+        "source": "/home/thareqyusuf/Projects/Test/Vuforia-Samples-Android-Studio/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
         "merged": "/Users/Gotti/AndroidStudioProjects/VufTesting/Vuforia-Samples-Android-Studio/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon.png",
         "source": "/Users/Gotti/AndroidStudioProjects/VufTesting/Vuforia-Samples-Android-Studio/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/thareqyusuf/Projects/Test/Vuforia-Samples-Android-Studio/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/logo.png",
+        "source": "/home/thareqyusuf/Projects/Test/Vuforia-Samples-Android-Studio/app/src/main/res/drawable-mdpi/logo.png"
     }
 ]

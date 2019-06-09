@@ -11,9 +11,11 @@ buildscript {
 allprojects {
     repositories {
         jcenter()
-        maven {
-            url 'http://updates.jmonkeyengine.org/maven'
-        }
+        //maven {
+          //  url 'http://updates.jmonkeyengine.org/maven'
+        //}
+        maven { url "http://dl.bintray.com/jmonkeyengine/com.jme3" }
+
     }
 
     project(":app") {

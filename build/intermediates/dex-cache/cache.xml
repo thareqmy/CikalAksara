@@ -1,2 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/home/thareqyusuf/.gradle/caches/modules-2/files-2.1/com.jme3/jme3-core/3.0.10/8a79aa0e1823fe9885212b4e858ee15b01eaba0a/jme3-core-3.0.10.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a79aa0e1823fe9885212b4e858ee15b01eaba0a">
+        <dex dex="/home/thareqyusuf/Projects/Test/Vuforia-Samples-Android-Studio/app/build/intermediates/pre-dexed/debug/jme3-core-3.0.10_6d917985299369b4fddc78a5707e53a0dfb519c1.jar" />
+    </item>
+    <item
+        jar="/home/thareqyusuf/.gradle/caches/modules-2/files-2.1/com.jme3/jme3-android/3.0.10/7698dbc69e1908107c6a8cf8f0f7b22ff192bac6/jme3-android-3.0.10.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7698dbc69e1908107c6a8cf8f0f7b22ff192bac6">
+        <dex dex="/home/thareqyusuf/Projects/Test/Vuforia-Samples-Android-Studio/app/build/intermediates/pre-dexed/debug/jme3-android-3.0.10_0b45938ca31fadf8bc957721c32478da70f0eccd.jar" />
+    </item>
+    <item
+        jar="/home/thareqyusuf/Projects/Test/Vuforia-Samples-Android-Studio/app/src/main/java/Vuforia.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="41d57a73e39cc4f881f7409fb36d82373706a3b1">
+        <dex dex="/home/thareqyusuf/Projects/Test/Vuforia-Samples-Android-Studio/app/build/intermediates/pre-dexed/debug/Vuforia_c83828365e67aa48cec607f899dc8d6af34d1463.jar" />
+    </item>
+    <item
+        jar="/home/thareqyusuf/.gradle/caches/modules-2/files-2.1/com.jme3/jme3-terrain/3.0.10/9cb18b64dd9552b506300229c6bcee675c0e007a/jme3-terrain-3.0.10.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9cb18b64dd9552b506300229c6bcee675c0e007a">
+        <dex dex="/home/thareqyusuf/Projects/Test/Vuforia-Samples-Android-Studio/app/build/intermediates/pre-dexed/debug/jme3-terrain-3.0.10_e799a968c5744905eb8c29e8fa6222c10301679c.jar" />
+    </item>
+
+</items>
